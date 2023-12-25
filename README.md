@@ -1,3 +1,3 @@
 # ExpansionPhase
 
-![](Figures/Figure2.PNG)
+![](Figures/Figure2.png)
