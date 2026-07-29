@@ -115,7 +115,9 @@ If you use this repository, please cite:
 For questions regarding the code or the models, please contact:
 
 **Sompob Saralamba**  
+
 Mahidol Oxford Tropical Medicine Research Unit  
+
 Email: sompob@tropmedres.ac
 ---
 
